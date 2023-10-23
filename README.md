@@ -1,7 +1,8 @@
-# File Logger
+# File-Logger
 
-## Usage:
-Can be used to operate, orginize and edit files. It is a custom implementation of "std::ostream" with memory tracker.
+### Example output 
 
-## Programmer: 
-Nikita Seliverstov (nikselko)
+![](https://github.com/nikselko/file-logger/assets/46798613/7797acc5-cf4d-40e5-b484-296a2351ea6a)
+
+#### CODE IS UNDER MIT LICENSE
+
